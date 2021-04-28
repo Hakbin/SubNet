@@ -1,4 +1,5 @@
 # SubNet
+(KSC 2019) 학습된 신경망에서 카테고리 부분집합 분류를 위한 서브 네트워크 추출 기법
 Keras implementation of SubNetwork
 
 ## Results
